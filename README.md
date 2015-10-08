@@ -1,0 +1,2 @@
+# azirbuddy
+addon for azir
